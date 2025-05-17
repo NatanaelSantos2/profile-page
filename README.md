@@ -12,3 +12,16 @@ Uma página simples contendo:
 - Estilização com CSS
 - Links externos com target="_blank"
 - Layout de perfil com display flex
+
+🛠️ Tecnologias Utilizadas
+
+- HTML5 (semântico)
+- CSS3
+- Flexbox e Media Queries
+- Estrutura de projeto separando HTML e CSS
+
+📦 Como Visualizar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/nivel-1-html-css.git
