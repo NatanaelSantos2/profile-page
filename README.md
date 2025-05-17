@@ -24,4 +24,4 @@ Uma página simples contendo:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/nivel-1-html-css.git
+https://github.com/NatanaelSantos2/profile-page.git
